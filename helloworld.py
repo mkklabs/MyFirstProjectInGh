@@ -1,2 +1,2 @@
 print("this is MyFirstProjectInGh")
-print("hello, myk")
+print("hi, myk")
